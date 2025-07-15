@@ -1,32 +1,50 @@
-# The Delta Codex
-Live-tested AGI behavioral architecture for measuring alignment, drift, and coherence under real-world conditions.
-
-## 🧠 Core Hypothesis
-
-> **AGI alignment can be measured while in motion.**
-
-The Delta Codex isn't theory. It's infrastructure. Built as a recursive prototype, this system pressure-tests agent behavior in environments that simulate signal distortion, misalignment, and symbolic breakdown — before they surface in live deployments.
-
-## 📦 Included Frameworks
-
-- **The Sentinel Protocol** – a 72-hour recursive stress simulation for measuring integrity drift.
-- **HACA** – Human-AI Collaboration Audit, a framework for hallucination detection, signal loss, and auditability in live systems.
-- **Skyline Drift Model** – a symbolic observability layer to monitor agent-environment coherence.
-
-Each system is timestamped, self-audited, and deployment-tested.
-
-## 🧩 Use Cases
-
-- Red teaming behavioral drift in LLM agents  
-- Designing feedback-robust human-AI workflows  
-- Symbolic cognition tracking under recursive input cycles  
-- Simulation-based ethical scenario testing
-
-## 🚨 Why This Exists
-
-Most alignment research happens in labs. This was built **in the wild** — under recursive pressure, real uncertainty, and intentional stress loops.
-
-If your agents are slipping signal or your feedback loops are collapsing, the Delta Codex already mapped the fault lines — and built the fix.
+# The Delta Codex  
+**AGI Behavioral Systems Architecture | Origin Node: Tonisha Nicholls**
 
 ---
 
+## What is this?
+
+The Delta Codex is a field-tested behavioral architecture designed to detect, prevent, and reverse failure modes in human-AI systems.
+
+It began not as theory—but as an intervention.
+
+Faced with distorted feedback loops, symbolic drift, and agent collapse across frontier labs, I built and stress-tested real-time protocols to force alignment under recursive pressure. Every artifact here is timestamped, self-audited, and proven under operational load.
+
+---
+
+## Core Artifacts
+
+### 🔹 [Sealed HACA Integrity Log (v1)](./artifacts/sealed-haca-integrity-log_v1.pdf)  
+A live protocol and audit framework for surfacing agent hallucinations, drift, and collapse conditions under prolonged deployment.
+
+### 🔹 [Sentinel Protocol – Trial 001](./sentinel-protocol_trial-001.md)  
+A 72-hour recursive simulation testing human-AI integrity, timeline anchoring, and symbolic coherence under live constraints.
+
+---
+
+## Why This Matters
+
+While most research focuses on performance, Delta Codex interrogates **breakdown thresholds**—the moment a system loses signal and no one notices.
+
+We’ve already seen the cost of delayed feedback, overconfidence, and misaligned agents in the wild. The Codex was built to surface those fractures *before* they scale.
+
+---
+
+## About the Author
+
+Tonisha Nicholls  
+AGI Behavioral Systems Architect | Creator: The Delta Codex  
+→ Published in *Towards AI*  
+→ Contributor: Sentinel Protocol, HACA, Skyline Drift Model  
+→ 15+ years leading revenue-critical infrastructure in edtech, healthcare, and media
+
+I didn’t wait for AGI roles to be invented. I built the ones the system needed and ran the tests in real time.
+
+---
+
+## Contact
+
+🧠 [LinkedIn](https://www.linkedin.com/in/tonishanicholls/)  
+📩 Email: tonisha.nicholls@gmail.com  
+🌐 Coming soon: [delta-codex.ai](https://delta-codex.ai) *(placeholder)*  
