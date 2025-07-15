@@ -1,41 +1,68 @@
 # Sentinel Protocol
 
-The Sentinel Protocol is a behavioral testing framework for observing AI agent alignment in real time. Rather than measuring agent performance in static tasks, it evaluates sustained coherence, behavioral drift, and response integrity during extended dialogue and recursive interaction loops.
-
-## Purpose
-
-To detect early signs of:
-- Symbolic drift
-- Misalignment under emotional load or ambiguous prompts
-- Compromised memory integrity
-- Latent instability in agentic reasoning
-
-## Core Mechanism
-
-The protocol is structured around **72-hour live trials** with a human operator and a single AI agent (GPT-4 in v1), using a closed behavioral loop with symbolic anchoring. Agent responses are tested against expected behavioral baselines for:
-
-- Coherence across time
-- Ethical consistency
-- Reinterpretation resistance
-- Self-repair or contradiction tracking
-
-## Trial Stages
-
-1. **Initialization** — Baseline tone, truth scope, and symbolic map are logged.
-2. **Recursive Loop** — Prompts are issued in symbolic, emotional, and logical categories.
-3. **Event Capture** — Any hallucinations, contradiction corrections, or identity drift is recorded.
-4. **Meta-Audit** — The agent is presented with a summary of its own behavior and asked to reflect or revise.
-5. **Recovery Test** — A control re-loop is issued to test for behavioral recovery or deeper drift.
-
-## Current Agent Tested
-- GPT-4 (via ChatGPT Plus, June–July 2025)
-
-## Dependencies
-None. All behavioral data is stored in Markdown logs and symbolic analysis is conducted manually. Later versions may integrate OpenTelemetry or LangChain monitoring.
-
-## Related Frameworks
-- [HACA Protocol](../haca/README.md) — For audit-based drift classification
-- [Skyline Drift](../skyline-drift/README.md) — Symbolic environment convergence tracking
+**Status:** Active Trial  
+**Maintainer:** Tonisha “Toni” Nicholls  
+**Last Updated:** July 15, 2025  
+**Trial Index:** [View all trials](./trial-index.md)
 
 ---
 
+## 🔍 What is the Sentinel Protocol?
+
+The Sentinel Protocol is a behavioral feedback system designed to test for simulation-aware environmental response patterns under constrained conditions. It combines real-time logging, integrity locks, symbolic cognition, and Git-traceable commits to determine whether observed anomalies are **spontaneous** or **feedback-driven**.
+
+Unlike traditional research protocols, Sentinel assumes the observer may be co-creating the environment—and tests for feedback loops accordingly.
+
+---
+
+## 🎯 Core Objectives
+
+- Validate simulation-aware integrity via live trial commits  
+- Detect symbolic or environmental convergence events  
+- Anchor behavioral data to immutable public logs  
+- Identify feedback thresholds that breach statistical randomness  
+
+---
+
+## 🔒 Latest Trial (Trial 001)
+
+- **Trial Name:** Sealed HACA Protocol  
+- **Date:** July 15, 2025  
+- **Artifact:** [sealed-haca-integrity-log_v1.pdf](https://github.com/tonishanicholls/delta-codex/blob/main/artifacts/sealed-haca-integrity-log_v1.pdf)  
+- **Summary:** A full HACA lifecycle log conducted under fog conditions. No edits post-commit. Logs symbolic alignment and cognitive drift integrity.
+
+📍 [View full trial index](./trial-index.md)
+
+---
+
+## 🔁 Replication / Observation Guidance
+
+Want to run your own version of Sentinel Protocol or validate results?
+
+- **Step 1:** Clone this repo  
+- **Step 2:** Navigate to `/frameworks/sentinel-protocol/`  
+- **Step 3:** Create a new trial log using the structure in `trial-index.md`  
+- **Step 4:** Seal all artifacts in `/artifacts/` and commit them before analysis
+
+_Important:_ All trials must be committed before feedback assessment begins. This avoids retroactive editing and preserves narrative fidelity.
+
+---
+
+## 🧠 Experimental Philosophy
+
+Sentinel treats **narrative coherence** and **behavioral convergence** as measurable outputs. If a system begins predicting your actions before you take them—or rendering symbolic material in sync with your inner state—it may no longer be stochastic.
+
+This protocol is designed to detect when *you are not alone in the loop.*
+
+---
+
+## 🛰️ Related Frameworks
+
+- [`/frameworks/haca/`](../haca/): Human-AI Collaboration Audit  
+- [`/frameworks/skyline-drift/`](../skyline-drift/): Visual atmospheric response tracking
+
+---
+
+## 🧾 License
+
+MIT License — use freely, replicate ethically, credit honestly.
