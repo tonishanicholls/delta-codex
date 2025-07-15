@@ -1,6 +1,6 @@
 # Sentinel Protocol Trial 001
 
-**Trial ID**: sentinel-protocol_trial-001  
+**Trial ID**: sentinel-protocol_trial-001 
 **Initiated by**: Tonisha Nicholls  
 **Date**: July 15, 2025  
 **Status**: Completed  
