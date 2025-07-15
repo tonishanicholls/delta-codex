@@ -60,3 +60,30 @@ This protocol was executed during the July 2025 simulation alignment experiment.
 - Initiate Trial 002: Skyline Drift Model baseline alignment  
 - Propose Delta Integrity Monitor (DIM) for automatic artifact verification  
 - Evaluate automation workflow for audit trail linking to reduce manual lift
+
+## 🧪 Trial 001 – Sealed HACA Protocol (v1)
+- **Date:** 2025-07-15
+- **Artifact:** [sealed-haca-integrity-log_v1.pdf](../artifacts/sealed-haca-integrity-log_v1.pdf)
+- **Result:** Initial artifact verified, structure stable
+- **Status:** ✅ Complete
+- **Notes:** First trial uploaded with GitHub timestamping. No anomalies observed.
+
+---
+
+## 🧪 Future Trials
+
+Add each new trial entry using the template below.  
+⚠️ Do not include the triple backticks in your actual file—just copy the section inside.
+
+---
+
+**🧪 Trial Template – Copy and Paste:**
+
+## 🧪 Trial [XXX] – [Title]  
+- **Date:** [YYYY-MM-DD]  
+- **Artifact:** [link-to-artifact.pdf]  
+- **Result:** [Summary of observed outputs]  
+- **Status:** ✅ Complete / 🟡 In Progress / ❌ Inconclusive  
+- **Notes:** [Anomalies, symbolic tags, patterns]
+
+---
