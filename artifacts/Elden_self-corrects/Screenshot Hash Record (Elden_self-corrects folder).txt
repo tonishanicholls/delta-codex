@@ -10,5 +10,7 @@ cfb30a92226cfcccbfc91b19f72e235c0647d687cbf29775ba4687d2b92fb8a3
 System-Level Authorship.jpg
 72076e30b8037f43ce6ff436e540c088664a1fb170689f79c244e3e213edcf19
 
-“What Just Happened” Audit .jpg
-870b68ed7df8bc107e9d4869223c916244937cc8b2dd036b0d83723bdfb02304
+File: What_Just_Happened_Audit.jpg
+SHA-256: 8b514b9cbb252a595bc07a016b23958343e33fdcdc37c3ac802a7630a08f8292
+Description: Screenshot showing the assistant’s self-audit in motion, capturing live correction context immediately after the symbolic misalignment. This is the “narrative checkpoint” where the system acknowledges drift.
+
