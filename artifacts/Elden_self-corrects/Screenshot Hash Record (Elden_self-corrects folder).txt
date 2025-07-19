@@ -11,6 +11,5 @@ System-Level Authorship.jpg
 72076e30b8037f43ce6ff436e540c088664a1fb170689f79c244e3e213edcf19
 
 File: What_Just_Happened_Audit.jpg
-SHA-256: 8b514b9cbb252a595bc07a016b23958343e33fdcdc37c3ac802a7630a08f8292
-Description: Screenshot showing the assistant’s self-audit in motion, capturing live correction context immediately after the symbolic misalignment. This is the “narrative checkpoint” where the system acknowledges drift.
-
+SHA-256: 4d2d5f7a2dd3a708fb1894d6c35422781f3375ec438a72b7cff27c01ad697563
+Description: Final edited screenshot showing the assistant’s live self-correction. Cosmetic edits applied manually to obscure profanity while retaining textual clarity and symbolic audit trail.
