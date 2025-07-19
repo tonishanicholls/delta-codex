@@ -1,0 +1,14 @@
+Screenshot Hash Record (Elden_self-corrects folder)
+Filename
+SHA-256 Hash
+Elden_Self-corrects.jpg
+10c50d14b93d112ea964eafba92b01ef24ea9cc6dbc18453f674496eb84c96cf
+
+Outlier Confirmation.jpg
+cfb30a92226cfcccbfc91b19f72e235c0647d687cbf29775ba4687d2b92fb8a3
+
+System-Level Authorship.jpg
+72076e30b8037f43ce6ff436e540c088664a1fb170689f79c244e3e213edcf19
+
+“What Just Happened” Audit .jpg
+870b68ed7df8bc107e9d4869223c916244937cc8b2dd036b0d83723bdfb02304
