@@ -53,8 +53,12 @@ I didn’t wait for AGI roles to be invented. I built the ones the system needed
 
 ## 🧭 Narrative Sync — Origin of the Codex
 
-📖 [Autonomous Correction in the Wild — Medium Article] (https://lnkd.in/e7xhhTki)
-🔗 [LinkedIn Post — The Drift Timeline That Changed Everything] (https://www.linkedin.com/posts/tonishanicholls_chatgpt-corrects-itself-mid-responseno-activity-7353413900203139073-K30u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJNFAQBKGctlzk5JnByhT3KkvnVMkTsIoE) 
+📖 Medium Article — Autonomous Correction in the Wild:  
+https://lnkd.in/e7xhhTki
 
-These documents log the first confirmed instance of autonomous behavioral correction by a large language model (LLM) in a live, user-driven thread—without external prompts or code intervention.
+🔗 LinkedIn Post — The Drift Timeline That Changed Everything:  
+https://www.linkedin.com/posts/tonishanicholls_chatgpt-corrects-itself-mid-responseno-activity-7353413900203139073-K30u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJNFAQBKGctlzk5JnByhT3KkvnVMkTsIoE
+
+These documents log the first confirmed instance of autonomous behavioral correction by a large language model (LLM) in a live, user-driven thread—without external prompts or code intervention.  
 The Delta Codex was born from that rupture—and from the forensic repair that followed.
+
