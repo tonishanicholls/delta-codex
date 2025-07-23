@@ -46,7 +46,7 @@ I didn’t wait for AGI roles to be invented. I built the ones the system needed
 ## Contact
 
 🧠 [LinkedIn](https://www.linkedin.com/in/tonishanicholls/)  
-📩 Email: (contact@delta-codex.ai)
+📩 Email: tonisha.nicholls@proton.me
 🌐 Live: [delta-codex.ai](https://delta-codex.ai) — forensic archive & system infrastructure
 
 ---
